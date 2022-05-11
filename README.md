@@ -1,1 +1,4 @@
-# itSynth
+# itSynth Install
+
+Download juce
+
